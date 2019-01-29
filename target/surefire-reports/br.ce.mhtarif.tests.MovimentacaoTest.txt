@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.ce.mhtarif.tests.MovimentacaoTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 18.841 sec - in br.ce.mhtarif.tests.MovimentacaoTest
